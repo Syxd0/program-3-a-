@@ -1,7 +1,11 @@
 # program-3-a-
 C module 3
 
-EX NO-3)a)- Decimal to Binary 
+EX NO-3)a)- Decimal to Binary.
+
+Date:19/10/2025
+Name: Vasanth S
+Ref no: 25017538
 
 AIM: To write a C program to convert a decimal number to binary number.
 
